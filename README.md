@@ -1,2 +1,3 @@
 # Tweeter
-Twitter Clone app starter
+
+Twitter Clone app created using MERN Stack
